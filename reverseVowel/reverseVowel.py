@@ -4,9 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-
         sl = list(s)
-
         i = 0
         j = len(s) - 1
 
@@ -25,4 +23,3 @@ class Solution(object):
 
         s = "".join(sl)
         return s
-        
