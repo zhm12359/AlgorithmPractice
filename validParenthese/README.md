@@ -1,4 +1,4 @@
-#Valid Parentheses Checj
+#Valid Parentheses Check
 Given a string containing just the characters
 ```
 '(', ')', '{', '}', '[' and ']'
